@@ -60,7 +60,7 @@ body{
 }
 .navigation ul li:hover a{
 	color: white;
-	background: #03a9f4;
+	background: rgba(0,0,0,.3);
 	border-radius: 8px;
 }
 .navigation ul li a:before{
